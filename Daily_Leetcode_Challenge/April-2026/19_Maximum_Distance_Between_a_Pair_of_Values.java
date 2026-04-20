@@ -6,7 +6,7 @@
  */
 
 // C++ code
-// Approach: 
+// Approach: Use two pointers i and j starting at 0; move j forward when nums1[i] <= nums2[j] to maximize distance, otherwise move i forward to find a valid pair.
 // TC: O(m+n)
 // SC: O(1)
 class Solution {
