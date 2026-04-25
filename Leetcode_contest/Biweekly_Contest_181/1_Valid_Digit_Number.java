@@ -1,7 +1,7 @@
 /**
  * Scroll below to see Java code as well
  * 
- * My youtube video of this question: https://youtu.be/Mah3XeV2uZ8
+ * My youtube video of this question: https://youtu.be/TLbE2S8_ZnY
  * Leetcode Link: https://leetcode.com/problems/valid-digit-number/
  */
 
