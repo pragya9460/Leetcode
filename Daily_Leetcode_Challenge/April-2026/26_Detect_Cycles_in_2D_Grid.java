@@ -1,5 +1,5 @@
 /**
- * Scroll below to see Java code as well, scroll further to see code for brute approach.
+ * Scroll below to see Java code as well.
  * 
  * My youtube video of this question: https://youtu.be/DuZCHZVR7bI
  * Leetcode Link: https://leetcode.com/problems/detect-cycles-in-2d-grid/
