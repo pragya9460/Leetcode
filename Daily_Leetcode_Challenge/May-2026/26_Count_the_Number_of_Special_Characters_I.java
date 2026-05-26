@@ -1,8 +1,8 @@
 /**
  * Scroll below to see Java code as well as optimal & brute force approaches.
  * 
- * My youtube video of this question: 
- * Leetcode Link: 
+ * My youtube video of this question: https://youtu.be/JY1iPqvUNXw
+ * Leetcode Link: https://leetcode.com/problems/count-the-number-of-special-characters-i/
  */
 
 // C++ code (Bitset)

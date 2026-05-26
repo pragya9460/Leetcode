@@ -4,8 +4,7 @@
       "name": "Default",
       "files": [
         ".vscode/changelists.json",
-        "Leetcode_contest/Weekly_Contest_498/3_Multi_Source_Flood_Fill.java",
-        "Daily_Leetcode_Challenge/May-2026/10_Maximum_Number_of_Jumps_to_Reach_the_Last_Index.java"
+        "Daily_Leetcode_Challenge/May-2026/26_Count_the_Number_of_Special_Characters_I.java"
       ]
     }
   ],
